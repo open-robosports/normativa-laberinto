@@ -11,39 +11,51 @@ sus robots, los cuales no podrán ser reprogramados ni modificados hasta que
 La configuración del laberinto para la competición se mostrará una vez todos
 los robots hayan sido entregados.
 
+Prueba
+------
+
 El jurado indicará el momento en el que el participante pueda acceder al
 laberinto para comenzar la prueba.
 
-Se dispondrá de 5 minutos para la exploración. El tiempo comenzará a contar en
-el momento en que el jurado dé la orden. La exploración terminará a los 5
-minutos o en cualquier momento si el participante así lo decide.
+Desde ese instante el participante dispondrá de 2 minutos para preparar su
+robot. Tras esos 2 minutos, o cuando el robot esté preparado, el jurado dará la
+orden de comienzo de la prueba.
 
-Durante la etapa de exploración está permitido el reinicio del robot. Es decir,
-se podrá recoger el robot del laberinto para volver a colocarlo sólo en la
-casilla de salida.
+- La prueba tendrá una duración de 10 minutos a tiempo corrido.
+- La prueba terminará tras los 10 minutos o en cualquier momento si el
+  participante así lo decide.
+- El jurado podrá decidir también la finalización de la prueba si observa que
+  el robot no realiza avances. Por ejemplo, si el robot no se mueve o si queda
+  atascado siempre en un mismo punto cercano a la salida.
 
-El jurado podrá decidir también la finalización de la parte de exploración si
-observa que el robot no realiza avances. Por ejemplo, si el robot no se mueve o
-si queda atascado siempre en un mismo punto cercano a la salida.
+En esos 10 minutos se medirá el tiempo que tarda el robot en completar el
+laberinto, pudiendo hacer múltiples intentos. Este tiempo se denomina "tiempo
+de carrera".
 
-Finalizado el tiempo de reconocmiento el participante tendrá la oportunidad de
-realizar 3 intentos de carrera. Una carrera comienza al salir de la celda de
-salida y finaliza al llegar a una celda de llegada. El jurado indicará el
-comienzo y final de cada intento.
+- El robot deberá partir con el cuerpo completamente contenido dentro de la
+  celda de salida.
+- El tiempo de carrera comienza a contar en cuanto el cuerpo del robot toca la
+  frontera de la celda de salida.
+- El tiempo de carrera termina cuando el cuerpo del robot toca la frontera de
+  alguna celda de llegada.
+- La carrera no se considera completa si el cuerpo del robot no rebasa
+  completamente la frontera de la celda de llegada.
 
-Los intentos de carrera finalizan también:
+Antes de cada intento de carrera el participante deberá confirmar con el jurado
+que el sistema de medición de tiempos está preparado. De no hacerlo el tiempo
+de esa carrera podría quedar anulado o, directamente, no ser medido.
 
-- Tras 3 minutos.
-- En caso de detención del robot por más de 5 segundos.
-- En cualquier momento en caso de que así lo decida el participante.
+Durante la prueba se permite:
 
-Durante la exploración y la carrera se permite:
-
+- Recoger el robot del laberinto para volver a colocarlo sólo en la casilla de
+  salida.
+- Reiniciar la placa controladora del robot.
 - Ajustar la configuración de control o velocidad del robot, siempre y cuando
-  no aporte información relativa al recorrido del laberinto
-- Ajuste manual de sensores, motores o piezas que puedas desajustarse durante
-  el desarrollo de la prueba.
-- Cambio de baterías, siempre y cuando se trate del mismo modelo de batería.
+  no aporte información relativa al recorrido del laberinto.
+- Ajustar manualmente los sensores, motores o piezas que puedas desajustarse
+  durante el desarrollo de la prueba.
+- Limpiar cualquier parte del robot.
+- Cambiar las baterías, siempre y cuando se trate del mismo modelo de batería.
 - Hacer reparación o sustitución de piezas dañadas, siempre y cuando sea por
   otras piezas de idénticas características.
 
