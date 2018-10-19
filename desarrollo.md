@@ -1,12 +1,12 @@
 Desarrollo de la competición
 ============================
 
-Cada participante podrá inscribir hasta 3 robots, aunque sólo podrá optar a un
-premio si varios de sus robots resultan ganadores.
+Cada equipo podrá inscribir hasta 3 robots, aunque sólo podrá optar a un premio
+si varios de sus robots resultan ganadores.
 
-Momentos antes de comenzar la competición los participantes deberán entregar
-sus robots, los cuales no podrán ser reprogramados ni modificados hasta que
-ésta finalice.
+Momentos antes de comenzar la competición los equipos deberán entregar sus
+robots, los cuales no podrán ser reprogramados ni modificados hasta que ésta
+finalice.
 
 La configuración del laberinto para la competición se mostrará una vez todos
 los robots hayan sido entregados.
@@ -14,16 +14,16 @@ los robots hayan sido entregados.
 Prueba
 ------
 
-El jurado indicará el momento en el que el participante pueda acceder al
-laberinto para comenzar la prueba.
+El jurado indicará el momento en el que el equipo pueda acceder al laberinto
+para comenzar la prueba.
 
-Desde ese instante el participante dispondrá de 2 minutos para preparar su
-robot. Tras esos 2 minutos, o cuando el robot esté preparado, el jurado dará la
-orden de comienzo de la prueba.
+Desde ese instante el equipo dispondrá de 2 minutos para preparar su robot.
+Tras esos 2 minutos, o cuando el robot esté preparado, el jurado dará la orden
+de comienzo de la prueba.
 
 - La prueba tendrá una duración de 10 minutos a tiempo corrido.
-- La prueba terminará tras los 10 minutos o en cualquier momento si el
-  participante así lo decide.
+- La prueba terminará tras los 10 minutos o en cualquier momento si el equipo
+  así lo decide.
 - El jurado podrá decidir también la finalización de la prueba si observa que
   el robot no realiza avances. Por ejemplo, si el robot no se mueve o si queda
   atascado siempre en un mismo punto cercano a la salida.
@@ -41,9 +41,9 @@ de carrera".
 - La carrera no se considera completa si el cuerpo del robot no rebasa
   completamente la frontera de la celda de llegada.
 
-Antes de cada intento de carrera el participante deberá confirmar con el jurado
-que el sistema de medición de tiempos está preparado. De no hacerlo el tiempo
-de esa carrera podría quedar anulado o, directamente, no ser medido.
+Antes de cada intento de carrera el equipo deberá confirmar con el jurado que
+el sistema de medición de tiempos está preparado. De no hacerlo el tiempo de
+esa carrera podría quedar anulado o, directamente, no ser medido.
 
 Durante la prueba se permite:
 
@@ -68,12 +68,12 @@ No está permitido en ningún caso:
 Clasificación
 -------------
 
-El robot ganador será el que consiga un menor tiempo de carrera (completando el
-recorrido entre la salida y la llegada). La clasificación del resto de robots
-se hará en base a su respectivo mejor tiempo de carrera.
+El equipo ganador será el que consiga un menor tiempo de carrera (completando
+el recorrido entre la salida y la llegada). La clasificación del resto de
+robots se hará en base a su respectivo mejor tiempo de carrera.
 
 En caso de empate o de ausencia de tiempos de carrera (si el robot no completa
-el recorrido) los jueces decidirán la clasificación en base a las
+el recorrido) el jurado decidirán la clasificación en base a las
 características técnicas del robot, comportamiento en el laberinto u otros
 factores.
 
