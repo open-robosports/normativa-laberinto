@@ -11,3 +11,15 @@ salida y las celdas de llegada.
 - [Robots y homologación](robots.md)
 - [Laberinto](laberinto.md)
 - [Desarrollo](desarrollo.md)
+
+# Contribuidores
+
+ - [Peque](https://github.com/Peque)
+
+# Recursos
+
+- [Bulebule](https://bulebule.readthedocs.io/en/latest/)
+
+# Licencia
+
+<p align="center"><img src="images/by-sa.png" width="200" align = "center"></p>
