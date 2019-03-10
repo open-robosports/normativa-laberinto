@@ -23,10 +23,10 @@ project = 'Normativa Laberinto'
 copyright = '2019, Open RoboSports'
 author = 'Open RoboSports'
 
-# The short X.Y version
-version = ''
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'
+# The short X.Y version
+version = release.split('-')[0]
 
 
 # -- General configuration ---------------------------------------------------
