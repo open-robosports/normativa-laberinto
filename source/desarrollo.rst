@@ -11,6 +11,7 @@ finalice.
 La configuración del laberinto para la competición se mostrará una vez todos
 los robots hayan sido entregados.
 
+
 Prueba
 ------
 
@@ -65,6 +66,7 @@ No está permitido en ningún caso:
   aporta información al robot relativa al recorrido del laberinto.
 - Reprogramar el robot.
 
+
 Clasificación
 -------------
 
@@ -76,6 +78,7 @@ En caso de empate o de ausencia de tiempos de carrera (si el robot no completa
 el recorrido) el jurado decidirán la clasificación en base a las
 características técnicas del robot, comportamiento en el laberinto u otros
 factores.
+
 
 Jurado
 ------
